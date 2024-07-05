@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAACAiIgIAAAAgQkREJAIAAEJEREREJAAgREREREREAiBEREREREQCQkRERERERCRCREREREREJEJEREREREQkQkRERERERCRCREREREREJEJEREREREQkIERERERERAIgREREREREAgBCRERERCQAACBCREQkAgAAACAiIgIAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pion1"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAICIiAgAAACAaGZmhggAAGhmZmZmhgCAZmZmZmZmCIBmZmZmZmYIaGZmZmZmZoZoZmZmZmZmhmhmZmZmZmaGaGZmZmZmZoZoZmZmZmZmhmhmZmZmZmaGgGZmZmZmZgiAZmZmZmZmCABoZmZmZoYAAIBoZmaGCAAAAICIiAgAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pion0"
+    },
+    "/CTy4,`:mCl;6epZ:H+%": {
+        "data": "hwQQABAAAACqqgoAAKCqqgoAAAAAAACgCgAAAAAAAKAKAAAAAAAAoAoAAKAKAACgAAAAoAoAAAAAAACgCgAAAAAAqqqqqgAAAACqqqqqAAAAAACgCgAAAAAAAKAKAAAACgAAoAoAAKAKAAAAAAAAoAoAAAAAAACgCgAAAAAAAKCqqgoAAKCqqg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "p"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
